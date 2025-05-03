@@ -29,7 +29,7 @@ A modern dashboard for tracking and managing AI safety incidents. Built with Rea
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ayushchahal44/Sparklehood-Assignment.git
 cd ai-safety-dashboard
 ```
 
